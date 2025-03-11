@@ -3,3 +3,10 @@
   font-weight: bold;
   color: #333;
 }
+
+/* Container principal */
+.dashboardContainer {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
