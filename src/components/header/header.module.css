@@ -1,6 +1,6 @@
  /* Estilo do Header */
 .mainHeader {
-    background-color: #69aaff;
+    background-color: #56b4c7;
     color: #fff;
     padding: 1rem;
     display: flex;
@@ -35,7 +35,7 @@
   .mainNav ul li a:hover,
   .mainNav ul li a.active {
     color: #fff;
-    border-bottom: 2px solid #b3d4ff;
+    border-bottom: 2px solid #1b99b3;
   }
   
   .userInfo {
@@ -50,7 +50,7 @@
   .userAvatar {
     width: 40px;
     height: 40px;
-    background-color: #b3d4ff;
+    background-color: #1b99b3;
     border-radius: 50%;
   }
   

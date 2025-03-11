@@ -1,20 +1,21 @@
 /* Sidebar */
 .sidebar {
-    width: 100%;
-    background-color: #2c5282;
+    width: 20%;
+    background-color: #91d8dd;
     color: #fff;
     padding: 1rem 0;
   }
   
   .sidebarHeader {
     padding: 0 1.5rem 1rem;
-    border-bottom: 1px solid #3182ce;
+    border-bottom: 1px solid #1b99b3;
   }
   
   .sidebarMenu ul {
     list-style: none;
     margin-top: 1rem;
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
   }
   
@@ -34,6 +35,6 @@
   
   .sidebarMenu ul li a:hover,
   .sidebarMenu ul li a.active {
-    background-color: #3182ce;
+    background-color: #1b99b3;
     color: #fff;
   }
